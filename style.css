@@ -545,3 +545,44 @@ button:focus-visible {
   font-size: 13px;
   color: #94A3B8;
 }
+
+/* contact */
+main h2 {
+  display: flex;
+  justify-content:center ;
+}
+
+.container {
+  display: flex;
+  gap: 100px ;
+  margin: 30px 10px 40px 50px;
+  padding:30px 10px 40px 50px ;
+}
+.form {
+  border: groove #FF6B2C;
+  border-radius: 25px;
+  width: 500px;
+  padding: 20px;
+}
+.form form p{
+  line-height: 1.8;
+}
+.form button{
+  margin-top: 20px;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+.form label{
+  color: #FF6B2C;
+}
+.form input{
+  width: 70%;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.btn{
+  text-align: center;
+}
+
