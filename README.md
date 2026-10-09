@@ -27,7 +27,7 @@
 # Css:
 
 # commande Line:
-*touch
+* touch
 
 
 
