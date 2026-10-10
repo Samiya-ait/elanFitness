@@ -1,32 +1,46 @@
-# documentation:
+# Elan Fitness
+site web de Fitness.
+## Pages du site:
+1. **Accueil** :[Voir la page](index.html)
+2. **à propos** :[Voir la page](about.html)
+3. **Programmes** :[Voir la page](programms.html)
+4. **Contact** :[Voir la page](contact.html)
 
-# git & github: 
+***
+
+# documentation:
+## git & github: 
 * git clone
 * git init
-* git commit -m ""
+* git commit -m " "
 * git checkout <branch name>
 * git remote add origin <url>
 * git push -u origin main
 * git checkout -b  <branch name>
 
-# approches de gestion de projet:
+## approches de gestion de projet:
 * approche classique
 * approche agile :scrum vs kanban
 
-# les piliers de SEO
-
-# UX/UI design 
-# accessibility et normes WCAG
+## UX/UI design 
+## accessibility et normes WCAG
 
 
-# Html:
+## Html:
 * balises et attributs
 * balises semantique
 * form
+* SEO
 
-# Css:
+## Css:
+* Box Model
+* les unités
+* Position
+* Display
+* FlexBox
 
-# commande Line:
+
+## commande Line:
 * touch
 
 
